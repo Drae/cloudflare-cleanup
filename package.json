@@ -1,0 +1,10 @@
+{
+  "name": "cloudflare_truncate_zone",
+  "main": "index.js",
+  "author": "NoTimeForHero",
+  "license": "MIT",
+  "dependencies": {
+    "cloudflare": "^2.4.1",
+    "yargs": "^15.3.1"
+  }
+}
